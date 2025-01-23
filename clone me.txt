@@ -1,3 +1,7 @@
+## CHANGES MADE BY THE NEW AUTHOR AT 2:40 PM 
+
+
+
 # Get the number from the user
 number = int(input("Enter a number to generate its multiplication table: "))
 
